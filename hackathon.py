@@ -102,7 +102,7 @@ while True:
 6. Thống kê tổng dòng tiền
 8. Thoát chương trình
 =====================================================
-Mời chọn chức năng (0-6): """)
+Mời chọn chức năng (0-8): """)
         
         match choice:
             case "1": display_table(transactions)
